@@ -9,7 +9,11 @@
     "url": "https://railcore.tech"
   },
   "homepage": "https://railcore.tech/ai",
+  "repository": "https://github.com/railcoretech/railcore-claude-plugin",
+  "documentationUrl": "https://github.com/railcoretech/railcore-claude-plugin#readme",
+  "supportUrl": "https://railcore.tech/contact",
   "privacyPolicyUrl": "https://railcore.tech/privacy",
+  "termsOfServiceUrl": "https://railcore.tech/terms",
   "icon": "./.claude-plugin/icon.png",
   "license": "MIT",
   "keywords": [
