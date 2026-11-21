@@ -1,0 +1,16 @@
+{
+  "name": "railcore",
+  "description": "The RailCore plugin for Claude Code: live Indian Railways answers from the RailCore server.",
+  "owner": {
+    "name": "RailCore",
+    "email": "hi@railcore.tech",
+    "url": "https://railcore.tech"
+  },
+  "plugins": [
+    {
+      "name": "railcore",
+      "source": "./",
+      "description": "Live Indian Railways answers in Claude: train running status, station boards, trains between stations, seats, fares, coach position and PNR status."
+    }
+  ]
+}

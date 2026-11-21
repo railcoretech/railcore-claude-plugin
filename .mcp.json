@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "railcore": {
+      "type": "http",
+      "url": "https://mcp.railcore.tech/mcp"
+    }
+  }
+}

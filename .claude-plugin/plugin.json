@@ -1,0 +1,23 @@
+{
+  "name": "railcore",
+  "displayName": "RailCore",
+  "version": "1.0.0",
+  "description": "Live Indian Railways answers in Claude: train running status, station boards, trains between stations, seats, fares, coach position and PNR status, with saved trips and alerts. Connects to the RailCore server and adds skills for planning a journey, the travel day and tracking a trip.",
+  "author": {
+    "name": "RailCore",
+    "email": "hi@railcore.tech",
+    "url": "https://railcore.tech"
+  },
+  "homepage": "https://railcore.tech/ai",
+  "privacyPolicyUrl": "https://railcore.tech/privacy",
+  "icon": "./.claude-plugin/icon.png",
+  "license": "MIT",
+  "keywords": [
+    "indian railways",
+    "train",
+    "live train status",
+    "pnr status",
+    "railway station",
+    "travel"
+  ]
+}
